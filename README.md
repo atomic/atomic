@@ -1,7 +1,8 @@
 ### Hi there 👋 This is Tony Lim
 
 - Had my BS in CS at UCSD ('17)
-- I've been working at [Landing](https://landing.ai) for 2 years
+- I've been part at [Landing](https://landing.ai) for over 3 years building visual inspection SaaS ML platform
+- Now, I'm currently at Uber ML team
 - Affinities: Infrastructure and Ops, AI, Security, RPG, Simulation and 🏓
 
 <a href="https://github.com/atomic">
